@@ -1,5 +1,5 @@
 
-# 📚 Book Review Site (Task 2)
+# 📚 Book Review Site (Task 1)
 
 A frontend application developed using **Next.js**, **TailwindCSS**, and **Ant Design** to facilitate book reviews.
 
