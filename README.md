@@ -74,7 +74,15 @@ Contributions are welcome! Please fork the repository, create a new branch, make
 
 ---
 
+## 📸 Screenshots
 
+<img width="1920" height="1020" alt="Screenshot 2025-09-08 063530" src="https://github.com/user-attachments/assets/d7dd8640-8bf3-4fdd-803e-4e5a52e0848c" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-08 063539" src="https://github.com/user-attachments/assets/6b36a8b4-de8c-4ffd-9c40-98e319b4f7d1" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-08 063550" src="https://github.com/user-attachments/assets/2c13badf-e6f6-415a-bcb4-5bb43ec074d2" />
+<img width="1920" height="1020" alt="Screenshot 2025-09-08 063849" src="https://github.com/user-attachments/assets/b1349ef2-d618-43d3-ad67-a4fb880f4cc7" />
+
+
+---
 ## 📚 Resources
 
 For more detailed guidance on creating effective README files, you may refer to:
